@@ -5,6 +5,7 @@ this is jade sample with grunt
 ```
 $ npm install -g grunt-cli
 ```
+see more : http://tweeeety.hateblo.jp/entry/2015/03/15/163139
 
 ## clone jade-sample-with-grunt
 ```
