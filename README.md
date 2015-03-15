@@ -16,7 +16,7 @@ $ git clone git@github.com:tweeeety/jade-sample-with-grunt.git
 $ npm install
 ```
 
-#### dir configuration
+##### dir configuration
 ```
 $ tree 
 .
@@ -36,10 +36,10 @@ $ tree
 └── src
 ```
 
-#### package.json
+##### package.json
 https://gist.github.com/tweeeety/eb755134750eef436d60
 
-#### Gruntfile.js
+##### Gruntfile.js
 https://gist.github.com/tweeeety/296c77f7c117820a9bc5
 
 
