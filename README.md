@@ -42,14 +42,12 @@ https://gist.github.com/tweeeety/eb755134750eef436d60
 #### Gruntfile.js
 https://gist.github.com/tweeeety/296c77f7c117820a9bc5
 
-<script src="https://gist.github.com/tweeeety/296c77f7c117820a9bc5.js"></script>
-
-https://gist.github.com/296c77f7c117820a9bc5.git
 
 ## exec jade
 ```
 $ grunt
 ```
 
+## confirm
 When you run , make sure in your browser `http://localhost:8000/`
 
