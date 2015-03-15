@@ -44,7 +44,7 @@ https://gist.github.com/tweeeety/eb755134750eef436d60
 https://gist.github.com/tweeeety/296c77f7c117820a9bc5
 
 
-## exec jade
+## exec jade from grunt task
 ```
 $ grunt
 ```
